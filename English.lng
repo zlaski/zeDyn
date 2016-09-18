@@ -1,0 +1,33 @@
+'zeDyn 2.7 English Language Created By The1Matrix1
+[About]
+Caption=About ZoneEdit Dynamic DNS Update Client
+[Main]
+Caption=ZoneEdit Dynamic DNS Update Client
+Username=Username:
+Password=Password:
+CreateAc=Create New Account
+FPass=Lost Password
+Starting=Starting ...
+Status=Status:
+Host=Host(s):
+Interval=Time Interval:
+Minute=Minute(s)
+Log=Log Detailes:
+OK=&Update
+About=&About
+Exit=E&xit
+Lang=Languages:
+URL=Click here to copy URL for zones
+MI=>    M o r e    >
+LI=<    L e s s    <
+[Messages]
+exit=Are you sure want to exit the ZoneEdit Dynamic DNS Update Client?
+nolangfile=Language (*.lng) files are missing from application folder!
+firewall=Request timed out.  Please check your firewall settings.
+ipdf=IP Detect Failed
+ipuf=IP Update Failed
+start=Started
+stop=Stopped
+checkinf=Please fill in all data!
+[Other]
+RightLeft=False

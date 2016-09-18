@@ -1,0 +1,7 @@
+Title: A Complete & Easy SysTray Dll
+Description: This dll and test project allow you to easily place an icon in the system tray and set its tooltip. This dll provides MouseMove, MouseDown, MouseUp, Click, DoubleClick, Minimize, and Restore events, and allows you to easily minimize a form to the tray. You can also specify a popup menu, and how it responds. (eg: on right click,double click etc...)
+I've added a new property (Persistent) which reloads the icon if Explorer crashes. Please let me know if you find any bugs with it.
+This file came from Planet-Source-Code.com...the home millions of lines of source code
+You can view comments on this code/and or vote on it at: http://www.Planet-Source-Code.com/vb/scripts/ShowCode.asp?txtCodeId=24089&lngWId=1
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.
